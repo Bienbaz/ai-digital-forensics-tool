@@ -18,7 +18,7 @@ Author: Abdulrahman Abdulaziz.
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/ai-digital-forensics-tool.git
+git clone https://github.com/Bienbaz/ai-digital-forensics-tool.git
 cd ai-digital-forensics-tool
 pip install -r requirements.txt
 ```
